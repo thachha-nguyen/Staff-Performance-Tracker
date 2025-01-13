@@ -24,7 +24,9 @@ The dashboard, built using **Metabase**, provides clinic managers with a compreh
 - Aggregated performance metrics (actual working hours vs. target hours).  
 - Interactive filters for customization (e.g., date, location, and manager). 
 
-Check out the video showcasing the product in action: [Watch on YouTube](https://youtu.be/XUmQKCfO5CA?si=ro2eIv57t1cRPtHL)
+Check out the video showcasing the product in action: 
+
+[![Watch the Demo](https://img.youtube.com/vi/XUmQKCfO5CA/0.jpg)](https://youtu.be/XUmQKCfO5CA?si=ro2eIv57t1cRPtHL)
 
 #### 2. **Target Generator Tool**  
 The target generator, built in **Streamlit**, enables clinics to set performance targets for employees. This tool simplifies the annual target cloning process by:  
@@ -32,7 +34,9 @@ The target generator, built in **Streamlit**, enables clinics to set performance
 - Allowing adjustments to target hours (ranging from 4–7 hours per day per person).  
 - Exporting updated targets to integrate with the performance dashboard seamlessly.
 
-Check out the video demo of the tool here: [Watch on YouTube](https://youtu.be/m8Wpa9uioEU)
+Check out the video demo of the tool here: 
+
+[![Watch the Demo](https://img.youtube.com/vi/m8Wpa9uioEU/0.jpg)](https://youtu.be/m8Wpa9uioEU)
 
 ---
 
