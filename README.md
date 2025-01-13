@@ -1,4 +1,4 @@
-# ClinicPerformanceTracker
+# Clinic Performance Tracker
 
 ## Short Description  
 **ClinicPerformanceTracker** is a data-driven solution designed to streamline employee performance management at clinics. This project includes two main deliverables:  
