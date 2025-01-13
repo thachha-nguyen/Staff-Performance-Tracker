@@ -24,7 +24,7 @@ The dashboard, built using **Metabase**, provides clinic managers with a compreh
 - Aggregated performance metrics (actual working hours vs. target hours).  
 - Interactive filters for customization (e.g., date, location, and manager). 
 
-Check out the video showcasing the product in action: 
+Click the image below to watch the demo on YouTube: 
 
 [![Watch the Demo](https://img.youtube.com/vi/XUmQKCfO5CA/0.jpg)](https://youtu.be/XUmQKCfO5CA?si=ro2eIv57t1cRPtHL)
 
