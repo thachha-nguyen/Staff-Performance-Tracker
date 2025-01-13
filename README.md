@@ -56,6 +56,6 @@ For detailed setup and usage instructions, please visit the [Documentation folde
 - [Anthony Nguyen](https://github.com/realanguyen96) - Target Generator Development  / Bug Fixes
 - [Divyanshu Fialok](https://github.com/another-contributor) - Target Generator Development  / Bug Fixes
 - [Dawn Dang](https://github.com/contributor-username) - Dashboard Development  / Design
-- [Andy Nguyen](https://github.com/another-contributor) - Dashboard Feature Development  / Design
+- [Andy Nguyen](https://github.com/another-contributor) - Dashboard Development  / Design
 
 
