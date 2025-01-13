@@ -23,13 +23,17 @@ This project was initiated to solve key challenges faced by clinic managers, suc
 The dashboard, built using **Metabase**, provides clinic managers with a comprehensive view of employee performance. Key features include:  
 - Real-time performance tracking by location, manager, and staff.  
 - Aggregated performance metrics (actual working hours vs. target hours).  
-- Interactive filters for customization (e.g., date, location, and manager).  
+- Interactive filters for customization (e.g., date, location, and manager). 
+
+Check out the video showcasing the product in action: [Watch on YouTube](https://youtu.be/XUmQKCfO5CA?si=ro2eIv57t1cRPtHL)
 
 #### 2. **Target Generator Tool**  
 The target generator, built in **Streamlit**, enables clinics to set performance targets for employees. This tool simplifies the annual target cloning process by:  
 - Cloning target hours from the previous year to the upcoming year.  
 - Allowing adjustments to target hours (ranging from 4–7 hours per day per person).  
-- Exporting updated targets to integrate with the performance dashboard seamlessly.  
+- Exporting updated targets to integrate with the performance dashboard seamlessly.
+
+Check out the video demo of the tool here: [Watch on YouTube](https://youtu.be/m8Wpa9uioEU)
 
 ---
 
