@@ -1,7 +1,6 @@
 # Clinic Performance Tracker
 
-## Short Description  
-**ClinicPerformanceTracker** is a data-driven solution designed to streamline employee performance management at clinics. This project includes two main deliverables:  
+**Clinic Performance Tracker** is a data-driven solution designed to streamline employee performance management at clinics. This project includes two main deliverables:  
 1. An interactive **dashboard** built in **Metabase** to track and visualize employee performance metrics.  
 2. A **target generator tool** built in **Streamlit** using Python to efficiently set employee performance targets.  
 
@@ -10,7 +9,7 @@
 ## Introduction  
 
 ### Background  
-Efficient employee performance management is critical for healthcare facilities to ensure quality service delivery and resource optimization. To address this, the **ClinicPerformanceTracker** project was developed to empower clinic managers with real-time insights into staff performance and provide tools to set performance goals effectively.  
+Efficient employee performance management is critical for healthcare facilities to ensure quality service delivery and resource optimization. To address this, the **Clinic Performance Tracker** project was developed to empower clinic managers with real-time insights into staff performance and provide tools to set performance goals effectively.  
 
 This project was initiated to solve key challenges faced by clinic managers, such as:  
 - Tracking employee performance across various metrics.  
@@ -49,5 +48,14 @@ For detailed setup and usage instructions, please visit the [Documentation folde
 - **PostgreSQL**: As the primary database for data storage.  
 - **Python**: For backend scripting and data manipulation.  
 
+
 ---
+## Contributors
+
+- [Huan LV](https://github.com/huanlv-git) - Project Lead  
+- [Anthony Nguyen](https://github.com/realanguyen96) - Target Generator Development  / Bug Fixes
+- [Divyanshu Fialok](https://github.com/another-contributor) - Target Generator Development  / Bug Fixes
+- [Dawn Dang](https://github.com/contributor-username) - Dashboard Development  / Design
+- [Andy Nguyen](https://github.com/another-contributor) - Dashboard Feature Development  / Design
+
 
