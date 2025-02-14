@@ -14,7 +14,11 @@ Efficient employee performance management is critical for healthcare facilities 
 This project was initiated to solve key challenges faced by clinic managers, such as:  
 - Tracking employee performance across various metrics.  
 - Setting and managing weekly-monthly-yearly target hours for staff members.  
-- Streamlining data visualization and analysis processes.  
+- Streamlining data visualization and analysis processes.
+
+System Architecture
+![image](https://github.com/user-attachments/assets/233aec15-8053-4ed6-ab9b-923e6fcf8844)
+
 
 ### Deliverables  
 
