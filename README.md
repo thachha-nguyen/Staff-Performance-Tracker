@@ -17,7 +17,7 @@ This project was initiated to solve key challenges faced by clinic managers, suc
 - Streamlining data visualization and analysis processes.
 
 System Architecture
-![image](https://github.com/user-attachments/assets/233aec15-8053-4ed6-ab9b-923e6fcf8844)
+![image](https://github.com/user-attachments/assets/b39144e4-b625-4cba-8519-32447f5a346a)
 
 
 ### Deliverables  
